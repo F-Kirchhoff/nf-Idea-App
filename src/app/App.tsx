@@ -8,7 +8,7 @@ import classes from './App.module.css'
 function App(): JSX.Element {
   return (
     <div className={classes.app}>
-      <Title>Lorem2000</Title>
+      <Title>Remember Me</Title>
       <Button>Hello</Button>
     </div>
   )
