@@ -1,8 +1,16 @@
 .app {
   text-align: center;
   background-color: #1a1d21;
-  color: #8a887b;
+  color: #a8a594;
   min-height: 100vh;
   margin: 0;
   padding: 30px;
+}
+
+.todoContainer {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 20px;
 }
