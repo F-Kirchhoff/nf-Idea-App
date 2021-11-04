@@ -1,3 +1,11 @@
+:root {
+  --c-primary: #1a1d21;
+  --c-secondary: #a8a594;
+  --c-green: #25a881;
+  --c-red: #973c53;
+  --c-light: #eef2f5;
+}
+
 * {
   box-sizing: border-box;
 }
